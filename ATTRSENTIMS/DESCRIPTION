@@ -1,0 +1,14 @@
+Package: ATTRSENTIMS
+Title: Attribute Sentiment Analysis of Restaurant Reviews
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ishita Minkyung Sudhir",
+           family = "Chakraborty Kim Sudhir",
+           role = c("aut", "cre"),
+           email = "ishita.chakraborty@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: What the package does (one paragraph).
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2.9000
